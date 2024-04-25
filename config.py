@@ -1,2 +1,2 @@
-Token='6466635687:AAGhnBT9jHaK9I3Wtr_RzWRN4qLhOW_xhMA'
-admin_id='441740734'
+Token='your_token'
+admin_id='your_admin_id'
